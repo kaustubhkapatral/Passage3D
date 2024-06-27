@@ -1,0 +1,3 @@
+[submodule "cosmos-genesis-tinkerer"]
+	path = cosmos-genesis-tinkerer
+	url = https://github.com/hyphacoop/cosmos-genesis-tinkerer.git
